@@ -1,0 +1,21 @@
+/*==============================contact========================*/
+.contact{
+    margin:7rem 0 0 0;
+    color: rgb(61, 16, 16);
+	/*border: 1px solid red;*/
+	width: 100%;
+	background-color: #fff;
+	border-radius: 0.2vw;
+}
+.contact h1{
+    color: #0f6704;
+	font-size: 2.5rem;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	margin-bottom:-1vw;
+	text-align: center;
+	font-weight: 600;
+}
+.contact a{
+    text-decoration: none;
+    color:#000;
+}

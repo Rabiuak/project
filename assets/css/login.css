@@ -1,0 +1,51 @@
+/*================= navbar Section =================*/
+.navbar h3{
+	text-align: center;
+	color: #fff;
+}
+
+
+/*================= Body Section =================*/
+.loghr{
+	margin: auto;
+	border: 1px solid;
+}
+/*================= Form Section =================*/
+.formsec{
+	width: 100%;
+	padding:  0 25%;
+}
+.formsec input{
+	margin-bottom: 3%;
+	letter-spacing: 0.2rem;
+	font-weight: 400;
+	height: 104%;
+}
+.formsec .btn{
+	margin-bottom: 0%;
+	letter-spacing: 0.7rem;
+	font-weight: 900;
+	font-size: 1.7rem;
+}
+
+.form-link{
+/*	background-color: pink;*/
+	font-size: 1.4rem;
+	margin-top: -3%;
+}
+.form-link1{
+	float: left;
+}
+.form-link2{
+	float: right;
+}
+
+
+
+/*================ Media Query ================*/
+@media (max-width: 800px){
+	.formsec{
+	    padding:  0 15%;
+    }
+	
+}

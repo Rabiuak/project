@@ -1,0 +1,104 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+
+/*================= Header Section =================*/
+.title{}
+
+       /* header */
+.logheader{
+	width: 100%;
+	background-color: #0f6704;
+	color: #fff;
+	padding: 0% 3% 0.5% 3%;
+}
+.logheader img{
+	width: 125px;
+	height: 90px;
+}
+.logheader h1{
+	font-size: 3rem;
+	margin-left: 10%;
+	text-align: center;
+	letter-spacing: 0.15em;
+	font-weight: 600;
+	font-family: serif;
+}
+.logheader h6{
+	font-size: 2vw;
+	text-align: center;
+	font-weight: 600;
+    line-height: 0.5;
+    letter-spacing: 0.05em;
+    font-family: courier;
+}
+
+
+/*================= Body Section =================*/
+.animation-img{
+	height: 500px;
+}
+.jumbotron h3{
+  		color: #16611D;
+  	}
+.aboutsiwesimg{
+	width: 25%;
+	float: left;
+	margin-right: 1%;
+}
+.aboutsiwesimgright{
+	width: 35%;
+	float: right;
+	border-radius: 3%;
+	margin-left: 1%;
+}
+
+
+/*================= Footer Section =================*/
+.footer{
+	width: 100%;
+	background-color: #0f6704;
+	color: #fff;
+	padding: 1% 0 5% 0;
+	text-align: center;
+	font-size: 1.4rem;
+	letter-spacing: 0.2rem;
+	font-weight: 600;
+}
+.hr{
+	background-color: #fff;
+	color: #fff;
+	width: 70%;
+	margin: auto;
+	border: 1px solid #fff;
+}
+.loghr{
+	width: 90%;
+	margin: auto;
+	border: 1px solid #000000;
+}
+
+
+
+
+/*================ Media Query ================*/
+@media (max-width: 800px){
+	.logheader h1{
+		font-size: 2.5rem;
+	}
+	.logheader h6{
+		font-size: 3vw;
+	}
+	
+}
+
+
+@media (max-width: 567px){
+	/*.logheader h1{
+		font-size: 2.5rem;
+	}*/
+	
+}
+

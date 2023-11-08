@@ -1,0 +1,11 @@
+.obj-text{
+	text-align: justify;
+	width: 60%;
+	float: right;
+	font-size: 1.2rem;
+}
+
+.obj-img{
+	width: 39%;
+	height: 87%;
+}
